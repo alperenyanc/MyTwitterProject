@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTwitterProject.UI", "MyTwitterProject.UI\MyTwitterProject.UI.csproj", "{1319A294-4AE9-4B5E-9186-92C08F29FCA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTwitterProject.Model", "MyTwitterProject.Model\MyTwitterProject.Model.csproj", "{3BA7F5C0-ADE5-492B-A2F0-D03DBAA2EC48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTwitterProject.Core", "MyTwitterProject.Core\MyTwitterProject.Core.csproj", "{E4EF9AA5-B94F-4C1B-AC64-1DB50E5902AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTwitterProject.Map", "MyTwitterProject.Map\MyTwitterProject.Map.csproj", "{5A64DC07-61CC-47C4-9036-1A05120FEB02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTwitterProject.Service", "MyTwitterProject.Service\MyTwitterProject.Service.csproj", "{92BD04F5-D8AF-4B52-9E94-38E4F13055D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTwitterProject.DAL", "MyTwitterProject.DAL\MyTwitterProject.DAL.csproj", "{0DDE2270-CE0B-4E41-973A-A497F390ED8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTwitterProject.Utility", "MyTwitterProject.Utility\MyTwitterProject.Utility.csproj", "{E00A22C2-1E49-4B85-9C9F-0A509AAB8EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1319A294-4AE9-4B5E-9186-92C08F29FCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1319A294-4AE9-4B5E-9186-92C08F29FCA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1319A294-4AE9-4B5E-9186-92C08F29FCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1319A294-4AE9-4B5E-9186-92C08F29FCA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA7F5C0-ADE5-492B-A2F0-D03DBAA2EC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA7F5C0-ADE5-492B-A2F0-D03DBAA2EC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA7F5C0-ADE5-492B-A2F0-D03DBAA2EC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA7F5C0-ADE5-492B-A2F0-D03DBAA2EC48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4EF9AA5-B94F-4C1B-AC64-1DB50E5902AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4EF9AA5-B94F-4C1B-AC64-1DB50E5902AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4EF9AA5-B94F-4C1B-AC64-1DB50E5902AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4EF9AA5-B94F-4C1B-AC64-1DB50E5902AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A64DC07-61CC-47C4-9036-1A05120FEB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A64DC07-61CC-47C4-9036-1A05120FEB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A64DC07-61CC-47C4-9036-1A05120FEB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A64DC07-61CC-47C4-9036-1A05120FEB02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92BD04F5-D8AF-4B52-9E94-38E4F13055D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BD04F5-D8AF-4B52-9E94-38E4F13055D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BD04F5-D8AF-4B52-9E94-38E4F13055D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BD04F5-D8AF-4B52-9E94-38E4F13055D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDE2270-CE0B-4E41-973A-A497F390ED8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDE2270-CE0B-4E41-973A-A497F390ED8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDE2270-CE0B-4E41-973A-A497F390ED8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDE2270-CE0B-4E41-973A-A497F390ED8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00A22C2-1E49-4B85-9C9F-0A509AAB8EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00A22C2-1E49-4B85-9C9F-0A509AAB8EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00A22C2-1E49-4B85-9C9F-0A509AAB8EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00A22C2-1E49-4B85-9C9F-0A509AAB8EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DDC4A92-A875-4F9A-B7B2-F1B0A34965E6}
+	EndGlobalSection
+EndGlobal
